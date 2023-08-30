@@ -5,7 +5,7 @@ public class VetoresABIguais {
 	public static void main(String[] args) {
 		//Atribuindo os mesmos valores do vetor a ao vetor b.
 		int[] a = new int [5];
-		int[] b = new int [5];
+		int[] b = new int [a.length];
 		a[0] = 1;
 		a[1] = 2;
 		a[2] = 3;
