@@ -21,7 +21,6 @@ public class Idade {
 			}
 		}
 		System.out.println("A quantidade de pessoas com mais de 35 anos é de: " + count);
-
 	}
 
 }
