@@ -14,7 +14,6 @@ public class VetorA8ElementosBX2 {
 		vetorA[6] = 19;
 		vetorA[7] = 14;
 		
-		
 		for(int i = 0; i <= 7; i++) {
 			vetorB[i] = vetorA[i] * 2;
 			System.out.println("Valor do vetorA: " + vetorA[i] + " vetorB: " + vetorB[i]);
