@@ -12,7 +12,6 @@ public class Idade {
 			System.out.println("Entre com a idade da pessoa " + (i+1));
 			vetorA[i] = scan.nextInt();
 			
-			
 		}
 		int count = 0;
 		for(int i = 0; i < vetorA.length; i++) {
@@ -21,7 +20,6 @@ public class Idade {
 			}
 		}
 		System.out.println("A quantidade de pessoas com mais de 35 anos é de: " + count);
-
 	}
 
 }
