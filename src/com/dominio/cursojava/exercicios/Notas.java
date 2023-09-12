@@ -33,9 +33,9 @@ public class Notas {
 		for (int i = 0; i< resultados.length; i++) {
 		
 			if(resultados[i] >= 7){
-				System.out.println(" - Aluno " + (i + 1 ) + " - " + resultados[i] + " - APROVADO");
+				System.out.println("Aluno " + (i + 1 ) + " - " + resultados[i] + " - APROVADO");
 			}else {
-				System.out.println(" - Aluno " + (i + 1 ) + " - " + resultados[i] + " - REPROVADO");
+				System.out.println("Aluno " + (i + 1 ) + " - " + resultados[i] + " - REPROVADO");
 			}
 		}
 	}
